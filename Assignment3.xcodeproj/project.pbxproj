@@ -12,7 +12,10 @@
 		96DBE7911AD4C43E00909F9C /* question1part3.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DBE7901AD4C43E00909F9C /* question1part3.m */; };
 		96DBE7A61AD4CC5B00909F9C /* question1part4.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DBE7A51AD4CC5B00909F9C /* question1part4.m */; };
 		96DBE7A81AD4CE5200909F9C /* question2.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DBE7A71AD4CE5200909F9C /* question2.m */; };
-		96DBE7AA1AD4CF4B00909F9C /* question3.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DBE7A91AD4CF4B00909F9C /* question3.m */; };
+		96DBE7AA1AD4CF4B00909F9C /* question5.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DBE7A91AD4CF4B00909F9C /* question5.m */; };
+		96DBE7AC1AD4D10700909F9C /* question3.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DBE7AB1AD4D10700909F9C /* question3.m */; };
+		96DBE7AE1AD4D39600909F9C /* question4.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DBE7AD1AD4D39600909F9C /* question4.m */; };
+		96DBE7B01AD4D50500909F9C /* question6.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DBE7AF1AD4D50500909F9C /* question6.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,7 +37,10 @@
 		96DBE7901AD4C43E00909F9C /* question1part3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = question1part3.m; sourceTree = "<group>"; };
 		96DBE7A51AD4CC5B00909F9C /* question1part4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = question1part4.m; sourceTree = "<group>"; };
 		96DBE7A71AD4CE5200909F9C /* question2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = question2.m; sourceTree = "<group>"; };
-		96DBE7A91AD4CF4B00909F9C /* question3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = question3.m; sourceTree = "<group>"; };
+		96DBE7A91AD4CF4B00909F9C /* question5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = question5.m; sourceTree = "<group>"; };
+		96DBE7AB1AD4D10700909F9C /* question3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = question3.m; sourceTree = "<group>"; };
+		96DBE7AD1AD4D39600909F9C /* question4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = question4.m; sourceTree = "<group>"; };
+		96DBE7AF1AD4D50500909F9C /* question6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = question6.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +78,10 @@
 				96DBE7901AD4C43E00909F9C /* question1part3.m */,
 				96DBE7A51AD4CC5B00909F9C /* question1part4.m */,
 				96DBE7A71AD4CE5200909F9C /* question2.m */,
-				96DBE7A91AD4CF4B00909F9C /* question3.m */,
+				96DBE7A91AD4CF4B00909F9C /* question5.m */,
+				96DBE7AB1AD4D10700909F9C /* question3.m */,
+				96DBE7AD1AD4D39600909F9C /* question4.m */,
+				96DBE7AF1AD4D50500909F9C /* question6.m */,
 			);
 			path = Assignment3;
 			sourceTree = "<group>";
@@ -133,8 +142,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96DBE7AE1AD4D39600909F9C /* question4.m in Sources */,
 				96DBE7881AD4B7F900909F9C /* main.m in Sources */,
-				96DBE7AA1AD4CF4B00909F9C /* question3.m in Sources */,
+				96DBE7AC1AD4D10700909F9C /* question3.m in Sources */,
+				96DBE7AA1AD4CF4B00909F9C /* question5.m in Sources */,
+				96DBE7B01AD4D50500909F9C /* question6.m in Sources */,
 				96DBE7A81AD4CE5200909F9C /* question2.m in Sources */,
 				96DBE7911AD4C43E00909F9C /* question1part3.m in Sources */,
 				96DBE78F1AD4C19300909F9C /* question1part2.m in Sources */,

@@ -1,5 +1,5 @@
 //
-//  question3.m
+//  question4.m
 //  Assignment3
 //
 //  Created by Bianca Binstock on 2015-04-07.
@@ -7,21 +7,25 @@
 //
 
 #import <Foundation/Foundation.h>
-int main5(int argc, const char * argv[]) {
+
+
+int main6(int argc, const char * argv[]) {
     @autoreleasepool {
         
-
-int sum;
-/* COMPUTE RESULT
-sum = 25 + 37 - 19 */
-
-        sum = 25 + 37 - 19;
+/*      expected output is
+ Testing...
+ ....1
+ ...2
+ ..3 */
+ 
         
-//DISPLAY RESULTS
-NSLog (@"The answer is %i", sum);
-       
-       
+                int i;
+                i = 1;
+                NSLog (@"Testing...");
+                NSLog (@"....%i", i);
+                NSLog (@"...%i", i + 1); 
+                NSLog (@"..%i", i + 2);
+            }
+            return 0; 
+        }
         
-    }
-    return 0;
-}
