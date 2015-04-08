@@ -39,6 +39,7 @@ int main2(int argc, const char * argv[]) {
         NSLog(@"Your paint job is (R: %hhu, G: %hhu, B: %hhu)",
               carColor.red, carColor.green, carColor.blue);
         
+        
 //        enum
         typedef enum {
             FORD,
@@ -85,7 +86,7 @@ int main2(int argc, const char * argv[]) {
         }
         NSLog(@"The first letter is %c", *(modelPointer - 5));
         
-//        null pointer
+//        null pointer is below
         int year1 = 1967;
         int *pointer1 = &year;
         NSLog(@"%d", *pointer1);     // Do something with the value
